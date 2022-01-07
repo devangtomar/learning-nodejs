@@ -1,0 +1,1 @@
+Here is the result This is a example of path module in node jsHere is the result This is a example of path module in node js
